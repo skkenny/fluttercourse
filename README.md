@@ -3,6 +3,8 @@ User Register
 
 Testing Flutter App with Firebase
 User Register and Login
+
+https://www.freeprivacypolicy.com/live/5036bbb5-7673-4ad1-9580-7f170b559156
 <h1>Privacy Policy</h1>
 <p>Last updated: January 19, 2021</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>

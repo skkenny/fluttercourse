@@ -169,5 +169,5 @@ https://www.freeprivacypolicy.com/live/5036bbb5-7673-4ad1-9580-7f170b559156
 <h1>Contact Us</h1>
 <p>If you have any questions about this Privacy Policy, You can contact us:</p>
 <ul>
-<li>By visiting this page on our website: <a href="https://github.com/skkenny/flutterlogin/blob/main/README.md" rel="external nofollow noopener" target="_blank">https://github.com/skkenny/flutterlogin/blob/main/README.md</a></li>
+<li>By visiting this page on our website: <a href="https://github.com/skkenny/fluttercourse/blob/main/README.md" rel="external nofollow noopener" target="_blank">https://github.com/skkenny/fluttercourse/blob/main/README.md</a></li>
 </ul>
